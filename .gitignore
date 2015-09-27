@@ -1,4 +1,6 @@
-.* # All hidden files
-.*/ # All hidden folders
-!.gitignore # Exclude .gitignore
-*.svg.*.svg # Inkscape backup files
+# All hidden files
+.*
+# Exclude .gitignore
+!.gitignore
+# Inkscape backup files
+*.svg.*.svg
