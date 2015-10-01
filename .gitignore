@@ -4,3 +4,5 @@
 !.gitignore
 # Inkscape backup files
 *.svg.*.svg
+# PNG pictures
+*.png
